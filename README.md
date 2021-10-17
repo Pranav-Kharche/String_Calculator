@@ -1,2 +1,7 @@
 # String_Calculator
-This repository contains the source code of String Calculator. Details are mentioned in the README.md file.
+A simple Addition String calculator based on this TDD-kata Incubyte online test.
+
+Getting Started
+Use STS or Eclipse
+Setup JAVA and Maven on your local machine
+Clone the repository to your local machine
